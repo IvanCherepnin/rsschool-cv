@@ -17,3 +17,35 @@ Highly motivated Junior Developer seeking a challenging position to leverage my 
 * Designed general business process flows 
 * Facilitated the meetings for requirements elicitation
 * Prioritized product backlog using extensive analysis of potential  business value
+## Skills
+* Git
+* Python
+* JavaScript
+* HTML
+* CSS
+## Code example
+```
+from typing import List
+
+def foo(nums: List[int]) -> List[int]:
+    new_nums = []
+    for i in range(0, len(nums)):
+        new_element = 1
+        for k in range(0, len(nums)):
+            if k == i:
+                continue
+            else:
+                new_element *= nums[k]
+        new_nums.append(new_element)
+    return(new_nums)
+```
+## GitLab links
+[Learning task with Python lists](https://gitlab.com/bahillerv/data-types-lists-task-3-student-template.git)\
+[Learning task with tuples](https://gitlab.com/bahillerv/data-types-tuples-task-2-student-template.git)
+## Strengths
+* Quick learner with the ability to adapt to new technologies and programming languages
+* Strong analytical skills to identify and solve complex problems
+* Detail-oriented approach to ensure accuracy and quality in software development
+* Excellent teamwork and collaboration abilities to work effectively with diverse teams
+## English level
+__B1__
