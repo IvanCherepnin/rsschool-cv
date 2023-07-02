@@ -48,4 +48,4 @@ def foo(nums: List[int]) -> List[int]:
 * Detail-oriented approach to ensure accuracy and quality in software development
 * Excellent teamwork and collaboration abilities to work effectively with diverse teams
 ## English level
-__B1__
+__B2__
