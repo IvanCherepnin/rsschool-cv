@@ -24,6 +24,9 @@ main {
 .photo {
     width: 33%;
 }
+.photo img {
+    width: 100%;
+}
 .left-side {
     width: 33%;
     background-color: #566E53;
